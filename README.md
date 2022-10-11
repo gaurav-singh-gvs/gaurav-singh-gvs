@@ -1,4 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaurav Singh====================================================================================================================================Full Stack Developer--------------------I am a Full Stack Developer with 7 years of Experience.* 🌍  I'm based in Hyderabad, India* ✉️  You can contact me at [gaurav.singh.gvs@gmail.com](mailto:gaurav.singh.gvs@gmail.com)* 🤝  I'm open to collaborating on Web App Development Projects
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaurav Singh
+### Full Stack Developer<br>
+I am a Full Stack Developer with 7 years of Experience.<br>
+* 🌍  I'm based in Hyderabad, India<br>
+* ✉️  You can contact me at [gaurav.singh.gvs@gmail.com](mailto:gaurav.singh.gvs@gmail.com)<br>
+* 🤝  I'm open to collaborating on Web App Development Projects
 
 ### Skills
 
